@@ -1,0 +1,22 @@
+.welcome-section {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.featured-recipes .card {
+    margin-bottom: 20px;
+}
+
+.call-to-action {
+    background-color: #ffeb99;
+    padding: 40px 0;
+}
+
+.call-to-action h4 {
+    margin-bottom: 20px;
+}
+
+.call-to-action p {
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+}
